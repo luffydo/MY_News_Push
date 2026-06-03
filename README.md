@@ -1,1 +1,2 @@
-# MY_News_Push
+# NewsPusher_
+新闻推送
